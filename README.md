@@ -1,0 +1,1 @@
+This is a Homework-task i got, if you wish to use this script, you need to have the requests and json library installed as well as python. You can install it by running pip install in your terminal. After you do all that you can run the code by doing python3.9 task.py .
